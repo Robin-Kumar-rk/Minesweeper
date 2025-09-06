@@ -172,9 +172,6 @@ implementation("androidx.media3:media3-exoplayer:1.2.1")
 - Functional approach with pure functions
 - Efficient flood-fill algorithm for empty cell reveals
 
-## 📱 **Screenshots**
-
-*Add screenshots of your game here*
 
 ## 🎨 **Customization**
 
@@ -201,9 +198,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Test on multiple screen sizes
 - Ensure accessibility compliance
 
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 **Acknowledgments**
 
@@ -213,9 +207,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Contact**
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **Project Link**: [https://github.com/yourusername/minesweeper](https://github.com/yourusername/minesweeper)
+- **GitHub**: [@Robin-Kumar-rk](https://github.com/Robin-Kumar-rk)
+- **Email**: robinkumarrk2005@gmail.com
+- **Project Link**: [https://github.com/yourusername/minesweeper](https://github.com/Robin-Kumar-rk/Minesweeper)
 
 ---
 
